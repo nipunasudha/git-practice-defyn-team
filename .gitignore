@@ -1,0 +1,4 @@
+# The files listed here are not versioned by git.
+
+.idea/
+this-file-is-ignored.txt
